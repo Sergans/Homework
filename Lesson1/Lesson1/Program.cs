@@ -11,7 +11,8 @@ namespace Lesson1
         static void Main(string[] args)
         {
             DateTime data = new DateTime(2021, 02, 11, 19, 07, 45);
-            //DateTime data = DateTime.Now; Вариант с текущей системной датой и временем 
+            /*Вариант с текущей системной датой и временем
+            DateTime data = DateTime.Now;*/
             string name = "Сергей";
 
             Console.WriteLine($"Привет,{name},сегодня {data}");
