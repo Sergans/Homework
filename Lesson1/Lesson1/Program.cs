@@ -10,7 +10,7 @@ namespace Lesson1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Привет, %имя пользователя%, сегодня %дата%");
+           
         }
     }
 }
